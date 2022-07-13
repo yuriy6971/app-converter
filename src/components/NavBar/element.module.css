@@ -1,0 +1,15 @@
+.elem_valute {
+    width: 99%;
+    display: flex;
+
+}
+.elem_valute > p {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+}
+.names {
+    color: indianred;
+}

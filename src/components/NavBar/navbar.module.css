@@ -1,0 +1,13 @@
+.nav {
+    grid-area: nav;
+    background-color: #36745A;
+    display: flex;
+    flex-direction: column;
+}
+.list {
+    font-weight: 500;
+    text-align: center;
+    font-style: italic;
+    color: grey;
+    
+}

@@ -1,0 +1,63 @@
+.block {
+    width: 150px;
+    height: 40px;
+    border: 2px solid;
+    margin-top: 100px;
+}
+.calc_valute {
+    width: 100%;
+    height: 80px;
+    margin-top: 50px;
+    /* background-color: lightgray; */
+}
+.change {
+    font-size: 1.5rem;
+    color: gray;
+    font-style: italic;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.block_valute {
+    display: flex;
+    justify-content: space-around;
+}
+.coude_valute {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color:gray ;
+}
+.input_number {
+    font-size: 1.7rem;
+}
+.label {
+    margin-left: 70px;
+}
+.block_button {
+    width: 90%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.butt_calc {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: green;
+    padding: 5px 6px;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+.butt_clear {
+    font-size: 1.3rem;
+    font-style: italic;
+    color: red;
+    padding: 5px 12px;
+    border-radius: 4px;
+} 
+.simbol {
+    color:blue;
+    font-size: 2rem;
+    cursor: pointer;
+}
