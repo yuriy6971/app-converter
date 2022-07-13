@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-converter/static/css/main.42547142.chunk.css",
+    "main.js": "/app-converter/static/js/main.ad8c962f.chunk.js",
+    "main.js.map": "/app-converter/static/js/main.ad8c962f.chunk.js.map",
+    "runtime-main.js": "/app-converter/static/js/runtime-main.80f0bced.js",
+    "runtime-main.js.map": "/app-converter/static/js/runtime-main.80f0bced.js.map",
+    "static/js/2.5e72b36d.chunk.js": "/app-converter/static/js/2.5e72b36d.chunk.js",
+    "static/js/2.5e72b36d.chunk.js.map": "/app-converter/static/js/2.5e72b36d.chunk.js.map",
+    "static/js/3.9934e0b8.chunk.js": "/app-converter/static/js/3.9934e0b8.chunk.js",
+    "static/js/3.9934e0b8.chunk.js.map": "/app-converter/static/js/3.9934e0b8.chunk.js.map",
+    "index.html": "/app-converter/index.html",
+    "static/css/main.42547142.chunk.css.map": "/app-converter/static/css/main.42547142.chunk.css.map",
+    "static/js/2.5e72b36d.chunk.js.LICENSE.txt": "/app-converter/static/js/2.5e72b36d.chunk.js.LICENSE.txt",
+    "static/media/loader1.7343107b.svg": "/app-converter/static/media/loader1.7343107b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80f0bced.js",
+    "static/js/2.5e72b36d.chunk.js",
+    "static/css/main.42547142.chunk.css",
+    "static/js/main.ad8c962f.chunk.js"
+  ]
+}
